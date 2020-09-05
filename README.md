@@ -1,4 +1,4 @@
-# Chat-Bot
+# Simple Chat Bot
 ![License: MIT](https://img.shields.io/badge/License-MIT-red.svg)
 ![Python 3.6](https://img.shields.io/badge/Python-3.6-red.svg)
 
